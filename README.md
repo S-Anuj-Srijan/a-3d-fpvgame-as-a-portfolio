@@ -10,7 +10,14 @@ A web-based 3D viewer built using **React**, **Three.js**, and **Framer Motion**
 ## 📸 Screenshots
 
 <img src="screenshots/Screenshot 2025-05-04 160521.png" alt="Model Preview" width="600" />
-<img src="screenshots/preview-2.png" alt="Interactive View" width="600" />
+<img src="screenshots/Screenshot 2025-05-04 160816.png" alt="Interactive View" width="600" />
+<img src="screenshots/Screenshot 2025-05-04 160849.png" alt="Interactive View" width="600" />
+<img src="screenshots/Screenshot 2025-05-04 160925.png" alt="Interactive View" width="600" />
+<img src="screenshots/Screenshot 2025-05-04 161103.png" alt="Interactive View" width="600" />
+<img src="screenshots/Screenshot 2025-05-04 161134.png" alt="Interactive View" width="600" />
+<img src="screenshots/Screenshot 2025-05-04 161200.png" alt="Interactive View" width="600" />
+<img src="screenshots/Screenshot 2025-05-04 161233.png" alt="Interactive View" width="600" />
+
 
 
 ---
