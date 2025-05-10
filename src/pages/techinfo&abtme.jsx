@@ -29,7 +29,7 @@ function Hi() {
       <div className="hacker-page">
         {/* Left side - Tech info */}
         <div className="left-panel scrollable">
-          <h1>Welcome, Operator. (Press 'E' to return to the game)</h1>
+          <h1>Welcome, Operator.</h1>
 
           <p className="intro">
             Initiating system overview... Expertise in full-stack development, immersive 3D web, and UI/UX hacking.
@@ -66,6 +66,8 @@ function Hi() {
           <img src="/images/css.png" alt="CSS" />
           <img src="/images/js.png" alt="JavaScript" />
           <img src="/images/c.png" alt="JavaScript" />
+          <img src="/images/pngwing.com.png" alt="JavaScript" />
+
 
         </div>
       </div>

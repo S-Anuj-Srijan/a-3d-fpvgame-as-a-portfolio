@@ -28,7 +28,7 @@ function Hi() {
 
         {/* Left side - Info */}
         <div className="left-panel scrollable">
-          <h1>Welcome, Operator. (Press 'E' to return to the game)</h1>
+          <h1>Welcome, Operator. </h1>
 
           <p className="intro">
             Initiating passion overview... Musician, athlete, builder, and explorer of machines and dreams.

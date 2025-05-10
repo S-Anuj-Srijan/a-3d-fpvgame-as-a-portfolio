@@ -26,7 +26,7 @@ function Hi() {
     <div className="hacker-page">
       {/* Left side - Tech info */}
       <div className="left-panel scrollable">
-        <h1>Welcome, Operator. (Press 'E' to return to the game)</h1>
+        <h1>Welcome, Operator.</h1>
         <p className="intro">About Me</p>
         <h2>🎯 Mission</h2>
         <p>
